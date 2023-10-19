@@ -84,6 +84,15 @@ const titles = [
   "Little Women",
 ];
 
+/* const authors = {
+  array.forEach(author => {
+    console.log(author.authorFirst, author.authorLast ,wrote ,author.name)
+  });
+}*/
+const Jo = book.forEach((text) => {
+});
+
+const shorts = author.filter((book) => author.authorFirst author.authorLast)
 //Array of authors and the book they wrote
 //"--- wrote --- in ---"
 
