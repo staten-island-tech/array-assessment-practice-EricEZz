@@ -89,10 +89,10 @@ const titles = [
     console.log(author.authorFirst, author.authorLast ,wrote ,author.name)
   });
 }*/
-const Jo = book.forEach((text) => {
+const Jo = titles.forEach((author) => {
+  console.log(author.authorFirst)
 });
 
-const shorts = author.filter((book) => author.authorFirst author.authorLast)
 //Array of authors and the book they wrote
 //"--- wrote --- in ---"
 
